@@ -1,2 +1,2 @@
-# PreAssignmentReact
+# PreReact
 React app using mockAPI
